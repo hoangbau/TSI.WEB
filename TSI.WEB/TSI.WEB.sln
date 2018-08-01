@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSI.WEB", "TSI.WEB\TSI.WEB.csproj", "{FE5654D0-83D9-4D7A-A7C1-36297CB5AAEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSI.BU", "TSI.BU\TSI.BU.csproj", "{F543A58B-AFFC-4397-B17F-A88066878D66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSI.DAL", "TSI.DAL\TSI.DAL.csproj", "{823C2888-0A89-4BA6-A0CC-63E4A6BCF9D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSI.CORE", "TSI.CORE\TSI.CORE.csproj", "{E709175A-4D65-4F65-AA78-F1EF56ACB56D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5654D0-83D9-4D7A-A7C1-36297CB5AAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5654D0-83D9-4D7A-A7C1-36297CB5AAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5654D0-83D9-4D7A-A7C1-36297CB5AAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5654D0-83D9-4D7A-A7C1-36297CB5AAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F543A58B-AFFC-4397-B17F-A88066878D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F543A58B-AFFC-4397-B17F-A88066878D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F543A58B-AFFC-4397-B17F-A88066878D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F543A58B-AFFC-4397-B17F-A88066878D66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823C2888-0A89-4BA6-A0CC-63E4A6BCF9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823C2888-0A89-4BA6-A0CC-63E4A6BCF9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823C2888-0A89-4BA6-A0CC-63E4A6BCF9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823C2888-0A89-4BA6-A0CC-63E4A6BCF9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E709175A-4D65-4F65-AA78-F1EF56ACB56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E709175A-4D65-4F65-AA78-F1EF56ACB56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E709175A-4D65-4F65-AA78-F1EF56ACB56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E709175A-4D65-4F65-AA78-F1EF56ACB56D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://codemuabimsua.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TSI.BU\\TSI.BU.csproj
+		SccProjectName1 = TSI.BU
+		SccLocalPath1 = TSI.BU
+		SccProjectUniqueName2 = TSI.CORE\\TSI.CORE.csproj
+		SccProjectName2 = TSI.CORE
+		SccLocalPath2 = TSI.CORE
+		SccProjectUniqueName3 = TSI.DAL\\TSI.DAL.csproj
+		SccProjectName3 = TSI.DAL
+		SccLocalPath3 = TSI.DAL
+		SccProjectUniqueName4 = TSI.WEB\\TSI.WEB.csproj
+		SccProjectName4 = TSI.WEB
+		SccLocalPath4 = TSI.WEB
+	EndGlobalSection
+EndGlobal

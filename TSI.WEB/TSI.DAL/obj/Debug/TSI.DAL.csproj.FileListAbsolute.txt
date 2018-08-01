@@ -1,0 +1,16 @@
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\bin\Debug\TSI.DAL.dll.config
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\bin\Debug\TSI.DAL.dll
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\bin\Debug\TSI.DAL.pdb
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\bin\Debug\EntityFramework.dll
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\bin\Debug\EntityFramework.xml
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\obj\Debug\TSI.DAL.csprojResolveAssemblyReference.cache
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\obj\Debug\TSI.DAL.dll
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\obj\Debug\TSI.DAL.pdb
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\obj\Debug\TSI.DAL.Migrations.InitDataBase.resources
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.DAL\obj\Debug\TSI.DAL.csproj.GenerateResource.Cache

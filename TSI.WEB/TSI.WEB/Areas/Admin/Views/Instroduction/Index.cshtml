@@ -1,0 +1,41 @@
+﻿
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Manage Instroductions";
+    @model List<TSI.BU.ViewModels.Responses.InstroductionResponse>
+}
+
+    <p style="margin-top: 20px">
+      @Html.ActionLink("Create", "Create", "Instroduction", new { area = "Admin" }, new { @class = "btn btn-primary" })
+    </p>
+    <h1>List Of Instroductions</h1>
+    <table class="table">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Create By</th>
+        <th>Create Date</th>
+        <th>Actions</th>
+      </tr>
+      </thead>
+      <tbody>
+      @foreach (var response in Model)
+      {
+          <tr>
+
+            <td>@response.Name</td>
+            <td>@response.Description</td>
+            <td>@response.CreateBy</td>
+            <td>@response.CreateDate</td>
+            <td>
+              @Html.ActionLink("Edit", "Update", "Instroduction", new {id = @response.Id}, null)
+              @Html.ActionLink("Delete", "DeleteInstroduction", "Instroduction", new {id = @response.Id}, null)
+            </td>
+          
+            </tr>
+      }
+</tbody>
+    </table>
+
+

@@ -1,0 +1,4 @@
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.CORE\bin\Debug\TSI.CORE.dll
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.CORE\bin\Debug\TSI.CORE.pdb
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.CORE\obj\Debug\TSI.CORE.dll
+D:\MyWorks\FreeLancer\TSI\TSI.WEB\TSI.CORE\obj\Debug\TSI.CORE.pdb

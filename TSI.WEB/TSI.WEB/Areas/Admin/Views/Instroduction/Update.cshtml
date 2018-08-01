@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Update Instroduction";
+    @model TSI.BU.ViewModels.Responses.InstroductionResponse
+}
+<h1>Update Instroduction</h1>
+@using (Html.BeginForm("UpdateInstroduction", "Instroduction", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.Id);
+    <div class="form-group">
+      @Html.LabelFor(m => m.Name)
+      @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+      @Html.LabelFor(m => m.Description)
+      @Html.TextAreaFor(m => m.Description, new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-default">Submit</button>
+}
+
+
+
